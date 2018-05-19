@@ -8,6 +8,7 @@ public class Ex02 {
 
         while (!(idade > 128)) {
             idade = Integer.parseInt(JOptionPane.showInputDialog("Informe a idade"));
+            
         }
 
     }

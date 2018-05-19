@@ -10,7 +10,6 @@ public class Ex03 {
         while (!(peso < 0 || peso > 300)) {
             contador++;
             peso = Double.parseDouble(JOptionPane.showInputDialog("Informe o peso"));
-
         }
         System.out.println("Quantidade de pessoas que informaram o peso: " + contador);
     

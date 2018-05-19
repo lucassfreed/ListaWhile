@@ -8,6 +8,7 @@ public class Ex01 {
 
         while (!(nome.equals("fim"))) {
             nome = JOptionPane.showInputDialog("Informe o nome (Digite fim para sair)");
+            
         }
 
     }

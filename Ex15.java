@@ -32,7 +32,6 @@ public class Ex15 {
             if (!((aux % 2) == 0)) {
                 System.out.println(aux);
             }
-            numero++;
         }
 
     }
